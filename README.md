@@ -1,6 +1,6 @@
 Visit the website at https://ayman-shaikh-store.myshopify.com/password
 <br>
-Store Password: pawdee
+Store Password: 123qwe
 <hr>
 <ol>
     <li>This website is an e-commerce website that has been designed and developed in a responsive manner using Shopify, Pagefly and html/css where need be. </li>
